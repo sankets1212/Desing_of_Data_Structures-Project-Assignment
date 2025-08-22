@@ -24,7 +24,7 @@ Vector (`std::vector`)**: Keeps track of the overall sent message history.
 
 ## How to Run
 
-1. Save the code in a file named `chatmgr.cpp`.
+1. Save the code in a file named `src.cpp`.
 2. Open a terminal and compile the program:
 
    bash
